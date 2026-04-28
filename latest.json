@@ -4,6 +4,6 @@
   "minSupportedVersion": "1.0.0",
   "releaseNotes": "Manual update test",
   "publishedAtUtc": "2026-04-28T13:00:00Z",
-  "msiUrl": "https://raw.githubusercontent.com/berkancalikoglu/DLP-Updates/main/DLP-Unified-x64-1.0.1.msi",
-  "sha256": "REPLACE_WITH_REAL_SHA256"
+  "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v1.0.1/DLP-Unified-x64-1.0.1.msi",
+  "sha256": "CD70659590AAA6D3A34D47ACB34EB76552FC5CEE589B3AD5119FD113E117F21B"
 }
