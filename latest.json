@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0",
+  "releaseNotes": "Manual update test",
+  "publishedAtUtc": "2026-04-28T13:00:00Z",
+  "msiUrl": "https://raw.githubusercontent.com/berkancalikoglu/DLP-Updates/main/DLP-Unified-x64-1.0.1.msi",
+  "sha256": "REPLACE_WITH_REAL_SHA256"
+}
