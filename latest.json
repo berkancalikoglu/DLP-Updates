@@ -3,10 +3,10 @@
     "mandatory":  false,
     "minSupportedVersion":  "1.0.0",
     "releaseNotes":  "Automated release manifest",
-    "publishedAtUtc":  "2026-04-30T17:29:59Z",
+    "publishedAtUtc":  "2026-04-30T17:59:10Z",
     "msiUrl":  "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v0.0.2/DLP-Unified-x64-0.0.2.msi",
-    "sha256":  "DAFCDC03A21793445BF9C7F7274A55A981FDDB7F8C95CAC427C13874DB0C4CB8",
-    "sizeBytes":  364208128,
+    "sha256":  "5C17B7DD36B842C2CD137C3AE80E0D58CA736ADA2FB379210B0FCE21B4E0DFF5",
+    "sizeBytes":  364212224,
     "signatureRequired":  true,
     "signerSubject":  "CN=Berkan DLP Test",
     "signerThumbprint":  "728C7F1815C5CF5BE2103CD8FF3D9FED442BA0C0"
