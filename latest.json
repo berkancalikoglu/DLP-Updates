@@ -1,12 +1,12 @@
-{
-  "version": "1.0.1",
+﻿{
+  "version": "1.0.2",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
-  "releaseNotes": "Final RC: backend entegrasyonlari, upload stabilizasyonu, PROXY-COMPAT/UPLOAD-AGG, file edit pipeline, at-rest guvenlik (befdf05).",
-  "publishedAtUtc": "2026-05-15T18:54:51Z",
-  "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v1.0.1/DLP-Unified-x64-1.0.1.msi",
-  "sha256": "70B7FF8E2E7AF04964D2E4A3E7A3F7F4F54724B5A2E740207B01235A1D017E3A",
-  "sizeBytes": 363257856,
+  "releaseNotes": "Video upload: /api/video-recordings, 201 dogrulama, 400 retry ve legacy requeue. File edit, update progress ve diger duzeltmeler.",
+  "publishedAtUtc": "2026-05-21T17:45:49Z",
+  "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v1.0.2/DLP-Unified-x64-1.0.2.msi",
+  "sha256": "651D5F4AD638C98D90AAD5BF7406591F2D7001D100E962D7B8166A3D4A116A8B",
+  "sizeBytes": 375484416,
   "signatureRequired": true,
   "signerSubject": "CN=Berkan DLP Test",
   "signerThumbprint": "728C7F1815C5CF5BE2103CD8FF3D9FED442BA0C0"
