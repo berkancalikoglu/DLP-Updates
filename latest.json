@@ -2,7 +2,7 @@
   "version": "1.0.3",
   "mandatory": false,
   "minSupportedVersion": "1.0.0",
-  "releaseNotes": "Imzali 1.0.3 release; tray/UI ve update signature diagnostik.",
+  "releaseNotes": "Automated release manifest",
   "publishedAtUtc": "2026-06-01T14:12:26Z",
   "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v1.0.3/DLP-Unified-x64-1.0.3.msi",
   "sha256": "4F31A41CFF485FD178B08DFF5BCA0956C83DB90137DD396A4CA0927B726BFAC6",
