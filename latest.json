@@ -2,12 +2,12 @@
   "version": "0.1.0",
   "mandatory": false,
   "minSupportedVersion": "0.1.0",
-  "releaseNotes": "Proxy compat v4, video RDP fix, privacy mask v2, uninstall cleanup, startup hygiene",
+  "releaseNotes": "Şu anda yeni sürüm yayınlanmamıştır. Güncelleme yayınlandığında bu kanal üzerinden bildirilecektir.",
   "publishedAtUtc": "2026-06-26T21:32:00Z",
-  "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v0.1.0/DLP-Unified-x64-0.1.0.msi",
-  "sha256": "7EF1DD6518B7BC9E17163C3B46BF09EFAA6E0F7E7EE0890C631C63E1D81FC026",
-  "sizeBytes": 443317862,
-  "signatureRequired": true,
-  "signerSubject": "CN=Berkan DLP Test",
-  "signerThumbprint": "728C7F1815C5CF5BE2103CD8FF3D9FED442BA0C0"
+  "msiUrl": "",
+  "sha256": "",
+  "sizeBytes": 0,
+  "signatureRequired": false,
+  "signerSubject": "",
+  "signerThumbprint": ""
 }
