@@ -1,1 +1,13 @@
-{"version":"1.0.5","mandatory":false,"minSupportedVersion":"1.0.0","releaseNotes":"Diagnostics upload, status report dialog, agent UI button layout","publishedAtUtc":"2026-06-12T21:55:00Z","msiUrl":"https://github.com/berkancalikoglu/DLP-Updates/releases/download/v1.0.5/DLP-Unified-x64-1.0.5.msi","sha256":"96A3F53280F1FF413FA3C689DCE5A67FF0D8686EC6ABD81ED2DFAA10A6C94EE3","sizeBytes":375783424,"signatureRequired":true,"signerSubject":"CN=Berkan DLP Test","signerThumbprint":"728C7F1815C5CF5BE2103CD8FF3D9FED442BA0C0"}
+{
+  "version": "0.1.0",
+  "mandatory": false,
+  "minSupportedVersion": "0.1.0",
+  "releaseNotes": "Proxy compat v4, video RDP fix, privacy mask v2, uninstall cleanup, startup hygiene",
+  "publishedAtUtc": "2026-06-26T21:32:00Z",
+  "msiUrl": "https://github.com/berkancalikoglu/DLP-Updates/releases/download/v0.1.0/DLP-Unified-x64-0.1.0.msi",
+  "sha256": "7EF1DD6518B7BC9E17163C3B46BF09EFAA6E0F7E7EE0890C631C63E1D81FC026",
+  "sizeBytes": 443317862,
+  "signatureRequired": true,
+  "signerSubject": "CN=Berkan DLP Test",
+  "signerThumbprint": "728C7F1815C5CF5BE2103CD8FF3D9FED442BA0C0"
+}
